@@ -5,7 +5,9 @@
 ![](header.png)
 
 ## Installation
+Link: – [Download shortcuts app on app store](https://apps.apple.com/au/app/shortcuts/id1462947752)
 
+![](app-store.PNG)
 
 
 ## Usage example
