@@ -1,5 +1,5 @@
 # SHORTCUT SUBURB TELLER
-> This shortcut will help the forklift driver to know where what suburb is without having to look at the paper by just using siri
+> This shortcut will help the user to know where what pallet goes where without having to look at the paper by just using siri
 
 
 ![](header.png)
