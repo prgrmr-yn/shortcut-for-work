@@ -46,7 +46,7 @@ In this case i asked for 'box hill' and it responded back to me with this
 ![](./images/box-hill-check.PNG)
 
 That's it you are done.
-## Development setup
+<!--## Development setup-->
 
 
 
